@@ -4,7 +4,7 @@ import p3 from './img/projects/coyote.png'
 import p4 from './img/projects/recipe.png'
 import p5 from './img/projects/p5.webp'
 import p6 from './img/projects/p6.webp'
-import p7 from './img/projects/p1.png'
+// import p7 from './img/projects/p1.png'
 
 export const products = [
     {
@@ -37,9 +37,9 @@ export const products = [
       img: p6,
       link: "http://lama.dev",
     },
-    {
-        id: 7,
-        img: p7,
-        link: "http://lama.dev",
-      }
+    // {
+    //     id: 7,
+    //     img: p7,
+    //     link: "http://lama.dev",
+    //   }
   ];
