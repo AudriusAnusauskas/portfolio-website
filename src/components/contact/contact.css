@@ -45,7 +45,7 @@
     margin-right: 20px;
 }
 
-.s-desc{
+.c-desc{
     font-weight: 200;
 }
 
@@ -81,4 +81,33 @@ button{
     width: 100%;
     font-weight: 500;
     font-size: 30px;
+}
+
+@media screen and (max-width: 480px){
+    .c-wrapper{
+        flex-direction: column;
+        padding: 0 50px;
+    }
+
+    .c-title{
+        font-size: 30px;
+    }
+    .c-info-item{
+        margin: 20px 0;
+        width: 100%;
+    }
+    .c-desc{
+        display: none;
+    }
+    form{
+        margin-top: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    input{
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-top: 0;
+    }
 }
