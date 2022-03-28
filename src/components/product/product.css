@@ -32,9 +32,14 @@
     transform: translateY(-10%);
 }
 
+@media screen and (max-width: 900px){
+    .p{
+        height: 10vh;
+    }
+}
 @media screen and (max-width: 480px) {
     .p{
         width: 40%;
-        height: 10vh;
+        
     }
 }
