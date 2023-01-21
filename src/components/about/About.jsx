@@ -1,6 +1,7 @@
 import React from "react";
 import "./about.css";
 import Mac from "../../img/mac1.png";
+import Resume from "../resume/Resume";
 
 export const About = () => {
   return (
@@ -36,6 +37,7 @@ export const About = () => {
           Udemy, Youtube, BitDegree about web develpment and UI design. I am
           looking forward to new exciting projects and challenges.
         </p>
+        <Resume />
       </div>
     </div>
   );
