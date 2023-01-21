@@ -18,10 +18,10 @@ export const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_z946d79",
+        "service_uyuj8a6",
         "template_fs551dc",
         formRef.current,
-        "szFDPNBj-MT8OX1XK"
+        "UoysERpzMdhj2g8p0"
       )
       .then(
         (result) => {
@@ -40,7 +40,7 @@ export const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h2 className="c-title">Let's talk about your new project</h2>
+          <h2 className="c-title">Do you need a web developer? Let's talk</h2>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />

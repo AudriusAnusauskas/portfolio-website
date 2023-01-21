@@ -18,7 +18,16 @@
 .pl-desc {
   margin: 20px 0;
 }
+.pl-desc a {
+  text-decoration: none;
+  font-size: 20px;
+  color: teal;
+}
 
+.pl-desc a:hover {
+  text-decoration: none;
+  color: rgb(27, 48, 48);
+}
 .pl-list {
   width: 100%;
   display: flex;
@@ -31,8 +40,3 @@
     padding: 50px 50px;
   }
 }
-/* @media screen and (max-width: 720px) {
-    .p {
-      width: 100%;
-    }
-  } */
