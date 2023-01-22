@@ -82,6 +82,8 @@
 @media screen and (max-width: 480px) {
   .a-left {
     width: 100%;
+    position: relative;
+    margin-top: 200px;
   }
 
   .a-card {
@@ -93,6 +95,6 @@
 @media screen and (max-width: 400px) {
   .a-left {
     position: relative;
-    margin-top: 90px;
+    margin-top: 130px;
   }
 }
