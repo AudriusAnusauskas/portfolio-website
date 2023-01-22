@@ -22,7 +22,11 @@ export const ProjectList = () => {
       <div className="pl-texts">
         <p className="pl-desc">
           More of my work could be found on my{" "}
-          <a href="https://github.com/AudriusAnusauskas">
+          <a
+            href="https://github.com/AudriusAnusauskas"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub <FaGithub />
           </a>
         </p>

@@ -26,7 +26,11 @@ function intro() {
           <span className="i-greet">
             <p className="i-linkedin">Greet me on </p>
             <p className="i-linkedin">
-              <a href="https://www.linkedin.com/in/audrius-anusauskas-4281ab227/">
+              <a
+                href="https://www.linkedin.com/in/audrius-anusauskas-4281ab227/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FaLinkedin />
               </a>
             </p>
