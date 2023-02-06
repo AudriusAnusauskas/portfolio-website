@@ -15,7 +15,7 @@ export const About = () => {
       <div className="a-right">
         <h2 className="a-title">About Me</h2>
         <p className="a-sub">
-          I am 44 years young guy who decided to make his dream come true and
+          I am a 44 years young guy who decided to make his dream come true and
           become a web developer.
         </p>
         <p className="a-desc">
