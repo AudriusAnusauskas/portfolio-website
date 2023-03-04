@@ -25,7 +25,7 @@ export const projects = [
   {
     id: 4,
     img: p4,
-    link: "https://github.com/AudriusAnusauskas",
+    link: "https://github.com/AudriusAnusauskas/tmdbMoviesApp-FE-",
   },
   {
     id: 5,
