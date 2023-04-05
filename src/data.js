@@ -4,7 +4,7 @@ import p3 from "./img/projects/feeCalc.png";
 import p4 from "./img/projects/movies.png";
 import p5 from "./img/projects/record.png";
 import p6 from "./img/projects/coyote.png";
-// import p7 from './img/projects/p1.png'
+import p7 from "./img/projects/flickr.png";
 
 export const projects = [
   {
@@ -16,6 +16,11 @@ export const projects = [
     id: 2,
     img: p2,
     link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/todo/blob/main/index.html",
+  },
+  {
+    id: 7,
+    img: p7,
+    link: "https://flickr-app-96e19.web.app/",
   },
   {
     id: 3,
@@ -37,9 +42,4 @@ export const projects = [
     img: p6,
     link: "http://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/portfolio/blob/main/shopify-project-2/index.html",
   },
-  // {
-  //     id: 7,
-  //     img: p7,
-  //     link: "http://lama.dev",
-  //   }
 ];
