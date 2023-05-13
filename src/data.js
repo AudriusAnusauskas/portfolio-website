@@ -5,6 +5,7 @@ import p4 from "./img/projects/movies.png";
 import p5 from "./img/projects/record.png";
 import p6 from "./img/projects/coyote.png";
 import p7 from "./img/projects/flickr.png";
+import p8 from "./img/projects/loanCalc.png";
 
 export const projects = [
   {
@@ -13,9 +14,9 @@ export const projects = [
     link: "https://uz7mariu.lt/",
   },
   {
-    id: 2,
-    img: p2,
-    link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/todo/blob/main/index.html",
+    id: 8,
+    img: p8,
+    link: "https://loan-calculator.site/",
   },
   {
     id: 7,
@@ -26,6 +27,11 @@ export const projects = [
     id: 3,
     img: p3,
     link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/jsProjects/blob/main/jsDiscountCalc/index.html",
+  },
+  {
+    id: 2,
+    img: p2,
+    link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/todo/blob/main/index.html",
   },
   {
     id: 4,
