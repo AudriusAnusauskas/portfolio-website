@@ -27,7 +27,15 @@ export const About = () => {
           <a href="https://devmentor.online/">devMentor</a> where I developed a
           movies app both the Fron-End and the Back-End. The Front-End part was
           developed with React.js using Typescript and Back-End was done with
-          Node.js also using Typescript. As a mentee developer I took part in
+          Node.js also using Typescript. I also participated in{" "}
+          <a href="https://www.swedbank.lt/about/careers/work?language=ENG">
+            Swedbank IT&Data academy
+          </a>{" "}
+          full stack web development course where I had a chance to get a deeper
+          learning in Angular and java with Spring boot. There were theoretical
+          lectures and a project done in teams of 5 students. We had to develop
+          a <a href="https://loan-calculator.site/">loan calculator app</a>{" "}
+          working by agile principles. As a mentee developer I took part in
           development and maintenance of sports membership site for sports
           community <a href="https://uz7mariu.lt/"> Už Septynių Marių</a> where
           I took part in creating the structure of the website and Front-end
