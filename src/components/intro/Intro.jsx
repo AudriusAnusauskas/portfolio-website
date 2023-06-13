@@ -12,16 +12,19 @@ function intro() {
           <h1 className="i-name">Audrius Anusauskas</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">Front End Developer</div>
+              <div className="i-title-item">Full Stack Developer</div>
               <div className="i-title-item">Web Designer</div>
               <div className="i-title-item">Software Engineer</div>
             </div>
           </div>
           <p className="i-desc">
-            I am freshly baked Front End Engineer currently gaining experience
-            and continuing learning by adapting acquired knowledge and digging
-            deeper into web development. <br /> Looking for interesting projects
-            and challenges.
+            I am a highly motivated and recently trained Full Stack Developer,
+            actively engaged in expanding my expertise and deepening my
+            understanding of web development. Currently, I am focused on gaining
+            practical experience and further honing my skills in order to
+            contribute effectively to challenging projects. <br /> I am actively
+            seeking compelling opportunities that will allow me to apply my
+            knowledge and skills while embracing new professional challenges.
           </p>
           <span className="i-greet">
             <p className="i-linkedin">Greet me on </p>

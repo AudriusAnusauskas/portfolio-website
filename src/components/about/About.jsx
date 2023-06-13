@@ -15,35 +15,50 @@ export const About = () => {
       <div className="a-right">
         <h2 className="a-title">About Me</h2>
         <p className="a-sub">
-          I am a 44 years young guy who decided to make his dream come true and
-          become a web developer.
+          I am a seasoned individual who, at the age of 44, decided to fulfill a
+          long-standing aspiration and embark on a career as a web developer.
         </p>
         <p className="a-desc">
-          I have completed 7 months of Front-End studies at{" "}
-          <a href="https://bit.lt/">Baltic Institute Of Technology</a> where I
-          learned solid basics of HTML, CSS, JavaScript and Angular JS as well
-          as good foundations of Back-End with Node.Js and databases (mySql,
-          Mongo DB, Postrgres). I did the 5 months of mentoring program at{" "}
-          <a href="https://devmentor.online/">devMentor</a> where I developed a
-          movies app both the Fron-End and the Back-End. The Front-End part was
-          developed with React.js using Typescript and Back-End was done with
-          Node.js also using Typescript. I also participated in{" "}
+          I have successfully completed a comprehensive 7-month Front-End
+          program at the{" "}
+          <a href="https://bit.lt/">Baltic Institute Of Technology</a>, where I
+          acquired a strong foundation in essential web technologies such as
+          HTML, CSS, JavaScript, and Angular. In addition, I gained proficiency
+          in Back-End development using Node.Js and working with databases
+          including MySQL, MongoDB, and PostgreSQL. <br />
+          During my journey, I engaged in a rigorous 5-month mentoring program
+          at
+          <a href="https://devmentor.online/"> devMentor</a>, where I sharpened
+          my skills by developing a full-stack movies application. Leveraging
+          React.js with TypeScript for the Front-End and Node.js with TypeScript
+          for the Back-End, I honed my abilities in building robust and scalable
+          web solutions. <br />
+          Further expanding my knowledge, I actively participated in the{" "}
           <a href="https://www.swedbank.lt/about/careers/work?language=ENG">
             Swedbank IT&Data academy
           </a>{" "}
-          full stack web development course where I had a chance to get a deeper
-          learning in Angular and java with Spring boot. There were theoretical
-          lectures and a project done in teams of 5 students. We had to develop
-          a <a href="https://loan-calculator.site/">loan calculator app</a>{" "}
-          working by agile principles. As a mentee developer I took part in
-          development and maintenance of sports membership site for sports
-          community <a href="https://uz7mariu.lt/"> Už Septynių Marių</a> where
-          I took part in creating the structure of the website and Front-end
-          development with React, helped building member authentication, helped
-          developing payment module flow, reviewed code and collaborated with
-          teammates on pull requests in Github. I also had numerous cources on
-          Udemy, Youtube, BitDegree about web develpment and UI design. I am
-          looking forward to new exciting projects and challenges.
+          intensive full-stack web development course. This immersive experience
+          allowed me to deepen my understanding of Angular and Java with Spring
+          Boot. Through theoretical lectures and collaborative team projects,
+          including the development of an agile-based{" "}
+          <a href="https://loan-calculator.site/">loan calculator app</a> , I
+          refined my expertise and practiced effective teamwork. <br />
+          As a mentee developer, I contributed to the development and
+          maintenance of a sports membership site for the{" "}
+          <a href="https://uz7mariu.lt/">Už Septynių Marių</a> sports community.
+          Within this role, I played a pivotal part in shaping the website's
+          architecture, employing React for Front-End development. I also
+          actively collaborated on key functionalities such as member
+          authentication and the development of a payment module flow.
+          Additionally, I contributed to code reviews and engaged in seamless
+          collaboration with my teammates via Github's pull request system.{" "}
+          <br />
+          To complement my formal training, I have diligently pursued additional
+          web development and UI design courses on platforms such as Udemy,
+          YouTube, and BitDegree. <br />
+          Currently, I am eagerly seeking new and stimulating projects and
+          challenges that will enable me to apply my diverse skill set and
+          continue to grow as a professional web developer.
         </p>
         <Resume />
       </div>
