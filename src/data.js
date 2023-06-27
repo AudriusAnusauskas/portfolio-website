@@ -19,14 +19,14 @@ export const projects = [
     link: "https://loan-calculator.site/",
   },
   {
-    id: 7,
-    img: p7,
-    link: "https://flickr-app-96e19.web.app/",
-  },
-  {
     id: 4,
     img: p4,
     link: "https://moviesapp-2e618.web.app/",
+  },
+  {
+    id: 7,
+    img: p7,
+    link: "https://flickr-app-96e19.web.app/",
   },
   {
     id: 3,
