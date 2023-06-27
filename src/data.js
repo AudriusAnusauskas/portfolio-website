@@ -24,6 +24,11 @@ export const projects = [
     link: "https://flickr-app-96e19.web.app/",
   },
   {
+    id: 4,
+    img: p4,
+    link: "https://moviesapp-2e618.web.app/",
+  },
+  {
     id: 3,
     img: p3,
     link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/jsProjects/blob/main/jsDiscountCalc/index.html",
@@ -33,11 +38,7 @@ export const projects = [
     img: p2,
     link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/todo/blob/main/index.html",
   },
-  {
-    id: 4,
-    img: p4,
-    link: "https://github.com/AudriusAnusauskas/tmdbMoviesApp-FE-",
-  },
+
   {
     id: 5,
     img: p5,
