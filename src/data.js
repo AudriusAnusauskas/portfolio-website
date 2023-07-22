@@ -6,12 +6,18 @@ import p5 from "./img/projects/record.png";
 import p6 from "./img/projects/coyote.png";
 import p7 from "./img/projects/flickr.png";
 import p8 from "./img/projects/loanCalc.png";
+import p9 from "./img/projects/RBApp.png";
 
 export const projects = [
   {
     id: 1,
     img: p1,
     link: "https://uz7mariu.lt/",
+  },
+  {
+    id: 9,
+    img: p9,
+    link: "https://rbapp-72b02.web.app/",
   },
   {
     id: 8,
