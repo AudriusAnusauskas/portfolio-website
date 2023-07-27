@@ -42,7 +42,7 @@ export const projects = [
   {
     id: 2,
     img: p2,
-    link: "https://htmlpreview.github.io/?https://github.com/AudriusAnusauskas/todo/blob/main/index.html",
+    link: "https://audriusanusauskas.github.io/ToDoAppAudrius/",
   },
 
   {
