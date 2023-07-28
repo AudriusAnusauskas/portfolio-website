@@ -18,13 +18,14 @@ function intro() {
             </div>
           </div>
           <p className="i-desc">
-            I am a highly motivated and recently trained Full Stack Developer,
-            actively engaged in expanding my expertise and deepening my
-            understanding of web development. Currently, I am focused on gaining
-            practical experience and further honing my skills in order to
-            contribute effectively to challenging projects. <br /> I am actively
-            seeking compelling opportunities that will allow me to apply my
-            knowledge and skills while embracing new professional challenges.
+            Hey, hey! Welcome to my website! I'm a pumped-up Full Stack
+            Developer who's been recently trained and ready to take on the web
+            development world! I'm all about expanding my skills and diving deep
+            into this exciting field. Right now, I'm all about gaining hands-on
+            experience and leveling up my talents to tackle those thrilling
+            projects! So, I'm on the hunt for amazing opportunities that'll let
+            me put my knowledge and skills to work while embracing new and cool
+            challenges! Let's make some web magic together!
           </p>
           <span className="i-greet">
             <p className="i-linkedin">Greet me on </p>
